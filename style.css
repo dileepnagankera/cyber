@@ -1,0 +1,77 @@
+#header {
+  background: #757267;
+  height: 100vh;
+}
+.navbar {
+  display: flex;
+  padding: 10px;
+}
+.nav li a {
+  display: grid;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+.header1 {
+  text-align: center;
+  color: white;
+  padding: 100px;
+}
+.Often {
+  text-align: center;
+  padding: 100px;
+}
+
+.btn1 {
+  background: black;
+  color: white;
+}
+#website {
+  text-align: center;
+  padding: 50px;
+  margin: 20px;
+}
+#website h1 {
+  font: bold;
+}
+.container1 {
+  padding: 20px;
+  margin: 30px;
+  justify-content: space-around;
+}
+#Whiston {
+  padding: 30px;
+  margin: 30px;
+  justify-content: space-between;
+}
+.container {
+  margin: 10px;
+  justify-content: space-between;
+  text-align: center;
+}
+.container h1 {
+  text-align: center;
+}
+.form {
+  text-align: center;
+  background: url("./img/img3.jpg") no-repeat;
+  height: 100vh;
+  color: white;
+  padding: 50px;
+}
+.form1 {
+  padding: 100px;
+}
+
+.Social li {
+  display: grid;
+  text-align: center;
+  float: right;
+  justify-content: space-between;
+  padding: 10px;
+}
+#footer {
+  background: black;
+  color: white;
+  padding: 20px;
+}
